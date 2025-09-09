@@ -99,12 +99,12 @@ The analysis reveals several important patterns:
 ## 📧 Contact
 
 **Hariom Nagar**  
-Email: [Your Email]  
+Email: bhandarihariom211@gmail.com  
 Subject: "Junior Data Scientist – Trader Behavior Insights"
 
 ## 🔗 Google Colab Links
 
-- **Main Analysis Notebook**: [Add Colab link here]
-- **Advanced Analysis**: [Add Colab link here]
+- **Main Analysis Notebook**: https://colab.research.google.com/drive/17e7IIkcDufHtEpk-xJH_hmG0MvjsD6SD?usp=sharing
+- **Advanced Analysis**: [[Add Colab link here]](https://colab.research.google.com/drive/1SzAyJe9Wig2I-7aJkbWn4SzTKQsp-RyS?usp=sharing)
 
 *Note: Ensure all Colab notebooks are set to 'Anyone with the link can view'*
