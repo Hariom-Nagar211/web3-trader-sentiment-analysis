@@ -154,7 +154,7 @@ The findings support the development of sentiment-based trading algorithms with 
 
 **Contact Information:**  
 Hariom Nagar  
-Email: [Your Email]  
+Email: bhandarihariom211@gmail.com  
 Subject: "Junior Data Scientist – Trader Behavior Insights"
 
 *This report demonstrates analytical capabilities and strategic thinking required for the Web3 Trading Team position.*
