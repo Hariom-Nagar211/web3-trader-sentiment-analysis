@@ -1,9 +1,5 @@
 # Web3 Trading Analysis: Trader Behavior vs Market Sentiment
 
-**Author:** Hariom Nagar  
-**Assignment:** Data Science - Web3 Trading Team  
-**Date:** September 2025
-
 ## 📋 Project Overview
 
 This project analyzes the relationship between trader behavior and market sentiment using:
