@@ -92,12 +92,6 @@ The analysis reveals several important patterns:
 - **Portfolio Optimization**: Balance aggressive/conservative strategies by sentiment
 - **Market Making**: Adjust spreads and liquidity provision based on sentiment
 
-## 📧 Contact
-
-**Hariom Nagar**  
-Email: bhandarihariom211@gmail.com  
-Subject: "Junior Data Scientist – Trader Behavior Insights"
-
 ## 🔗 Google Colab Links
 
 - **Main Analysis Notebook**: https://colab.research.google.com/drive/17e7IIkcDufHtEpk-xJH_hmG0MvjsD6SD?usp=sharing
